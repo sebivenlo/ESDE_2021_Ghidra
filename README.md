@@ -19,3 +19,6 @@ To be able to run and analyze a file with Ghidra, do the following:
 7. Now create a new Active Project and after that you can drag the crackme files into that project.
 8. Double click one of the files and Ghidra should open a new window.
 
+There are two assigments inside the "CrackMes" folder. In the workshop you should try to analyze and solve both of them. 
+The following website should give you some hints about what to do in assignment 2:
+https://www.tutorialspoint.com/assembly_programming/assembly_conditions.htm
