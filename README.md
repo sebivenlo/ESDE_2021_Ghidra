@@ -20,5 +20,12 @@ To be able to run and analyze a file with Ghidra, do the following:
 8. Double click one of the files and Ghidra should open a new window.
 
 There are two assigments inside the "CrackMes" folder. In the workshop you should try to analyze and solve both of them. 
+
+Assignment 1:
+You can run this jar-file from the command line. It will ask you for a code to proceed. If you use Reverse Engineering with Ghidra, you can find out which code you need to enter to proceed.
+
+Assignment 2:
+This file also has a code that you will need to proceed. In this case we do not want to find the code, but change the program in such a way that you do not need the key anymore. There are several ways to do this, but your goal is to get the "Well done" without having to enter the crack that is written in the file.
+
 The following website should give you some hints about what to do in assignment 2:
 https://www.tutorialspoint.com/assembly_programming/assembly_conditions.htm
